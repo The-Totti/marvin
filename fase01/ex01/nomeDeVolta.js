@@ -1,5 +1,5 @@
 function nomeDeVolta() {
     console.log("Marvin");
-    return "O Andróide Paranóide";
+    console.log("O andróide paranóide");
+    return "O andróide paranóide";
 }
- 
