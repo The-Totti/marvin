@@ -1,3 +1,4 @@
 function euGosto(musica) {
-    return "eu gosto de " + musica;
+    return "Eu gosto de " + musica;
 }
+
