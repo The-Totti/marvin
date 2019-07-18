@@ -1,4 +1,5 @@
 def alfabetoMilitar(letra):
+    letra = letra.lower()
     if letra == "a":
         return ("alpha")
     elif letra == "e":
@@ -11,3 +12,4 @@ def alfabetoMilitar(letra):
         return ("uniform")
     elif letra:
         return (False)
+
