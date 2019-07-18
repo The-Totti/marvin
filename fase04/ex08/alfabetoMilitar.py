@@ -9,5 +9,5 @@ def alfabetoMilitar(letra):
         return ("oscar")
     elif letra == "u":
         return ("uniform")
-    elif:
-        return (false)
+    elif letra:
+        return (False)
